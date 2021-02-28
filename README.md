@@ -28,7 +28,7 @@ La información que se guardará en la base de datos es :
 
 ## Config.py
 
-En el objeto config se deben estar los datos para hacer la conección a la base de datos :
+En el objeto config deben estar los datos para hacer la conección a la base de datos :
 
 ```shell
     config = {
