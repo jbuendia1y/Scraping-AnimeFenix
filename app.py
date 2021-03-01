@@ -25,7 +25,9 @@ for n in range(1,40):
             "poster" : poster,
             "url" : anime_url
         }
-
+        
         database.addAnime(data)
+    
+    driver.close()
 
 print('SUCCESSFUL')
